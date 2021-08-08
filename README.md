@@ -9,7 +9,7 @@
 - [x] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
 ## 程序员修养
-
+- [] 《97 Things Every Programmer Should Know》
 - 英文能力
 - 问问题的能力
   - [ ] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
