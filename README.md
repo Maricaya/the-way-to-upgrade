@@ -2,6 +2,7 @@
 
 > 食用方式：fork 到自己仓库，checkout branch progress，完成一项在前面打X即可
 
+https://github.com/git-zjx/programmer_training_strategy 
 ## 入门
 
 - [x] [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
@@ -9,7 +10,7 @@
 - [x] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
 ## 程序员修养
-- [] 《97 Things Every Programmer Should Know》
+- [ ] 《97 Things Every Programmer Should Know》
 - 英文能力
 - 问问题的能力
   - [ ] [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html),[点击简体中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
