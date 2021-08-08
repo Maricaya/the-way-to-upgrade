@@ -4,9 +4,9 @@
 
 ## 入门
 
-- [ ] [Teach Yourself Programming in Ten Years](https://liuyandong.com/2017/10/25/122/)
-- [ ] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
-- [ ] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
+- [-] [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+- [-] [The Key To Accelerating Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+- [-] [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
 
 ## 程序员修养
 
