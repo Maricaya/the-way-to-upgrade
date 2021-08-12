@@ -3,6 +3,9 @@
 > 食用方式：fork 到自己仓库，checkout branch progress，完成一项在前面打X即可
 
 https://github.com/git-zjx/programmer_training_strategy 
+
+https://zhuanlan.zhihu.com/p/99532530
+
 ## 入门
 
 - [x] [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
